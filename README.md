@@ -1,0 +1,2 @@
+# simpleFunding
+Funding contract
